@@ -1,7 +1,8 @@
 # ChangeLog
-## Module vi-VN Xiaomi 
+## Module vi-VN Xiaomi by `YuYu`
 ### Description
 - Hỗ trợ tất cả phiên bản `Android`, `MIUI`, `HyperOS`
+- Hiện đã hỗ trợ `30 Package`
 
 ### Latest Version
 #### `1.0 | Date 28/11/2023`
