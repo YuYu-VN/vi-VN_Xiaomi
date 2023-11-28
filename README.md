@@ -1,6 +1,7 @@
 # vi-VN_Xiaomi
 ## Description
 - Hỗ trợ tất cả phiên bản `Android`, `MIUI`, `HyperOS`
+- Số `Package` đã hỗ trợ `30`
 
 ## Latest Version
 #### `1.0 | Date 28/11/2023`
