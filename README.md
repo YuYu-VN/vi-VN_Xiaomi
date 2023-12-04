@@ -1,4 +1,5 @@
-# Description
+# vi-VN_Xiaomi
+## Description
 - Hỗ trợ tất cả phiên bản `Android`, `MIUI`, `HyperOS`
 - Hiện tại đã hỗ trợ `70 Package` tiếng việt <details><summary>Tính Năng</summary>
 Thêm `Tiếng Việt` cho `ROM` không hỗ trợ </details>
