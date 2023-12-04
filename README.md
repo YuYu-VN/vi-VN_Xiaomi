@@ -1,5 +1,5 @@
 # vi-VN_Xiaomi
-<details><summary>Tính Năng</summary>
+- Chức năng<details>
 Thêm `Tiếng Việt` cho `ROM` không hỗ trợ </details>
 
 #
