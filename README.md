@@ -17,3 +17,7 @@ Phiên bản này hỗ trợ `70 Package` </details>
 - Phiên bản tiếp theo là `V1.2` <details>
 Phiên bản mới này sẽ hỗ trợ thêm `Âm Lịch`
 và `Siêu Hình Nền` cho các máy không hỗ trợ </details>
+
+#
+## Preview
+[com.android.settings_1](https://github.com/YuYu-VN/vi-VN_Xiaomi/blob/YuYu/com.android.settings_1.jpg)
