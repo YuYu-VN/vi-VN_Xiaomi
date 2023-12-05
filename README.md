@@ -20,7 +20,7 @@ và `Siêu Hình Nền` cho các máy không hỗ trợ </details>
 
 #
 ## Preview
-<details>
+<details><summary>Xem Hình Ảnh Preview</summary>
 
 ![com.android.settings_1](https://raw.githubusercontent.com/YuYu-VN/vi-VN_Xiaomi/YuYu/com.android.settings_1.jpg)
 </details>
