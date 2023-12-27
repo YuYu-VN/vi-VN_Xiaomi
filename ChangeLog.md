@@ -1,12 +1,5 @@
 # ChangeLog
 ## Module vi-VN Xiaomi by `YuYu`
-<<<<<<< HEAD
-### Description
-- Hỗ trợ tất cả phiên bản `Android`, `MIUI`, `HyperOS`
-- Hiện đã hỗ trợ `70 Package`
-
-### Latest Version
-=======
 > ### Description
 - Hỗ trợ tất cả phiên bản `Android`, `MIUI`, `HyperOS`
 #
@@ -23,18 +16,10 @@
 - `Tiếng Việt`, `Âm Lịch`, `Siêu Hình Nền`, `Icon 8x10`, `Folder column x6`
 #
 > ### Version History
->>>>>>> e46a565 (Update)
 #### `1.1 | Date 04/12/2023`
 - Phiên bản mới này cập nhật thêm nhiều `Package`
 - Phiên bản này hỗ trợ `70 Package`
 
-<<<<<<< HEAD
-### Version History
 #### `1.0 | Date 28/11/2023`
 - Đây là phiên bản đầu tiên của Module vi-VN Xiaomi
 - Phiên bản này hỗ trợ `30 Package`
-=======
-#### `1.0 | Date 28/11/2023`
-- Đây là phiên bản đầu tiên của Module vi-VN Xiaomi
-- Phiên bản này hỗ trợ `30 Package`
->>>>>>> e46a565 (Update)

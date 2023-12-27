@@ -1,5 +1,5 @@
 #!/system/bin/sh
-# Author: Yu Yu
+# Author: YuYu
 # -Begin-
 # Variable
 home="/data/adb/modules_update"

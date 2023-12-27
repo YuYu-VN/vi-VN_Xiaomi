@@ -1,12 +1,6 @@
 {
-<<<<<<< HEAD
-  "version": "V1.1.MY122023",
-  "versionCode": 20231211,
-  "zipUrl": "https://github.com/YuYu-VN/vi-VN_Xiaomi/releases/download/vi-VN_Xiaomi-V1.1.MY122023/vi-VN_Xiaomi-V1.1.zip",
-=======
   "version": "V1.2",
   "versionCode": 20231212,
   "zipUrl": "https://github.com/YuYu-VN/vi-VN_Xiaomi/releases/download/vi-VN_Xiaomi-V1.2/vi-VN_Xiaomi-V1.2.zip",
->>>>>>> e46a565 (Update)
   "changelog": "https://raw.githubusercontent.com/YuYu-VN/vi-VN_Xiaomi/YuYu/ChangeLog.md"
 }
