@@ -1,5 +1,9 @@
 #!/bin/sh
+<<<<<<< HEAD
 # Author: Yu Yu
+=======
+# Author: YuYu
+>>>>>>> e46a565 (Update)
 # -Begin-
 # Variable
 home="/data/adb/modules"

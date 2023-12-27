@@ -1,7 +1,14 @@
 id=vi-VN_xiaomi
 name=Module vi-VN Xiaomi
+<<<<<<< HEAD
 version=V1.1.MY122023
 versionCode=20231211
 author=Yu Yu
 description=Module vi-VN Xiaomi Hỗ trợ tất cả phiên bản Android,MIUI,HyperOS. Số Package đã hỗ trợ 70
+=======
+version=V1.2
+versionCode=20231212
+author=Yu Yu
+description=Module vi-VN Xiaomi Hỗ trợ tất cả phiên bản Android,MIUI,HyperOS | Các tính năng <•> Hỗ trợ tiếng việt cho những rom không có | Hỗ trợ âm lịch | Hỗ trợ siêu hình nền cho tất cả các dòng Xiaomi
+>>>>>>> e46a565 (Update)
 updateJson=https://raw.githubusercontent.com/YuYu-VN/vi-VN_Xiaomi/YuYu/Update.json
