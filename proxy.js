@@ -1,10 +1,10 @@
 function FindProxyForURL(url, host) {
     // If the hostname matches, send direct.
-    if (dnsDomainIs(host, "intranet.domain.com") || shExpMatch(host, " (*.abcdomain.com|abcdomain.com)"))
+    if (dnsDomainIs(host, "*.com") || dnsDomainIs(host, "*.net"))
         return "DIRECT";
 
     // If the protocol or URL matches, send direct.
-    if (url.substring(0, 4)=="ftp:" || shExpMatch(url, "http://abcdomain.com/folder/*"))
+    if (url.substring(0, 4)=="ftp:")
         return "DIRECT";
 
     // If the requested website is hosted within the internal network, send direct.
