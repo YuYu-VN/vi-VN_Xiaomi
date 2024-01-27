@@ -1,3 +1,6 @@
 <listPackage>
-    <package name="android.plugin">20240000</package>
+    <package name="android.plugin">
+        <versionCode>20231213</versionCode>
+        <link>https://github.com/YuYu-VN/vi-VN_Xiaomi/raw/YuYu/Package/Version/V1.2/android.apk</link>
+    </package>
 </listPackage>
